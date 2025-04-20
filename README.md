@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 - 💻 Open source contributor
 
 ### 🚀 Connect with me:
-[![About Me](https://img.shields.io/badge/About.me-%230077B5?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://about.me/rajputankit22)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajputankit22/)
 
 ### Telecommunication:
