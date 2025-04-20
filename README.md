@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hello, I'm Surendra Tiwari 👋
+# Hello, I'm Ankit Rajpoot 👋
 
 - 👨‍💻 Senior Software Engineer(Technical Lead)
 - 🌱 Currently learning new technologies
